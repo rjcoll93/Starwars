@@ -1,0 +1,1 @@
+This project aims to clean, explore, and analyze a dataset resulting from a FiveThirtyEight survey about Star Wars, where they collected responses from fans before Star Wars: The Force Awakens came out.
